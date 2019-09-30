@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+Things I'm passionate about:
+- Genomics
+- Coding
+  - Python
+  - C/C++
+  - JavaScript
